@@ -6,8 +6,8 @@ import os
 # =========================================================================
 # ⚙️ [실험 설정 및 전역 변수] - 지정하신 경로 고정 적용
 # =========================================================================
-VIDEO_PATH = r"E:\.샘플\line sample\edited_sample.mp4"
-LOG_FILE_PATH = r"E:\.샘플\line sample\experiment_results.txt"
+VIDEO_PATH = r"영상경로입력"
+LOG_FILE_PATH = r"로그경로입력"
 
 paused = True 
 clicked_point = None
